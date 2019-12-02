@@ -1,0 +1,181 @@
+{
+  "main": {
+    "name":"Colin BARRE",
+    "occupation":"Je cherche un poste de Devops/Developper : J'ai une vrai appétence pour les architectures Microservices.",
+    "description":"En poste pour ATOS BULL / Ouvert aux opportunités",
+    "image":"download.png",
+    "bio":"Passionné par les nouvelles technologies et le développement des applications Microservices, j'ai un réel goût du partage et je m'intéresse particulièrement aux projets de développement web à forte valeur ajoutée utilisant les frameworks open-source et les technologies les plus connues sur le marché (node, Docker, React, DesignPatterns, Jenkins, Docker, REST, Xamarin, Gitlab, ...). ",
+    "bio2": "J'ai 2 ans d'expériences en développement d'applications dans des environnements hétérogènes depuis la conception à la mise en production. Je suis ouvert à tout type d'opportunité intéressante et je cherche essentiellement des perspectives d'évolution en termes d'expertise technique et de responsabilité dans la conduite d'un projet de développement.",
+    "contactmessage":"Ce formulaire permet de m'envoyer un mail 'prioritaire'",
+    "email": "barrecolin@gmail.com",
+    "phone": "+33666174608",
+    "address":{
+      "street":"15 Rue Ponteves",
+      "city":"Marseille",
+      "state":"FRANCE",
+      "zip": "13002"
+    },
+    "website": "http://www.barrecolin.com",
+    "resumedownload":"http://www.barrecolin.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/colinCRS",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/c_djeckel",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"https://plus.google.com/u/0/106533286993249851497",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/colin-barre-7750616b/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://instagram.com/colindjeckel",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Colin-Djeckel",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Compétences en communication, Capacité à travailler en équipe, Sens de l'initiative, Résolution des problèmes, Flexibilité, Compétences techniques.",
+    "education":[
+      {
+        "school":"ECE Paris",
+        "degree":"Diplôme d'ingénieur, Système d'information",
+        "graduated":"2013 - 2016",
+        "description":"La gestion de l’information est un véritable enjeu pour les entreprises. Elle est nécessaire pour s’adapter à un marché mondial en pleine mutation et pour réagir face à la concurrence. Elle présente également l’opportunité de créer de la valeur en s’appuyant sur les nouvelles technologies. La majeure Systèmes d’Information, Cybersécurité et Big data forme des ingénieurs qui sont capables de :  Concevoir et réaliser des systèmes d’information répondant aux besoins des entreprises en utilisant les technologies les plus adaptées en matière d’architecture, de décisionnel, d’intelligence et de sécurité. Résoudre des problèmes réels d’entreprise et de société par les technologies de l’information et de la communication. Faire évoluer et bénéficier les entreprises de nouvelles technologies de l’information en exploitant les flux de données numériques pour découvrir des idées d’affaires et identifier des opportunités",
+        "description2":"Activités et associations : Vice-Président de cette association qui trouve des Jobs pour les étudiants du campus. Organisations d’évènements pour plus de 500 personnes, gestion de plus de 50.000€ de CA. Directeur du pôle RH, mise en place de formation, recrutement et choix des étudiants pour la réalisation  des missions. "
+    },
+    {
+        "school":"Classe préparatoire Scientifique PT",
+        "degree":"Philippe de Girard",
+        "graduated":"2011 – 2013",
+        "description":"2ème de Promo 2013 au concours"
+    }
+    ],
+    "work":[
+      {
+        "company":"DTP TERRASSEMENT",
+        "title":"Responsable de chantier",
+        "years":"juin 2012 - août 2012",
+        "description":"J’ai piloté une équipe de 4 personnes pour le terrassement et l’aménagemend’une future voie ferrée. Réponse aux appels d’offres, j’ai effectué unossier d’organisation des travaux et un devis pour la réalisation de la futuredéchèterie de Montpellier, en établissant des contacts avec des sous-traitants. J’ai fait une analyse financière détaillée des chantiers de Marseille pour lecomparer aux estimations."
+      },
+      {
+        "company":"Artelia",
+        "title":"Developper Full stack",
+        "years":"Mai 2014 - Août 2014",
+        "description":"J'ai acquis des connaissances sur les technologies suivantes : .NET, Microsoft SQL Server, Sharepoint, Web Services, modélisation UML, BPMN. Ce stage m'a permis d'être rigoureux, et d'avoir un fort esprit d'initiative et d'être capable de m'intégrer dans une structure en forte croissance."
+      },
+      {
+        "company":"School Business Game",
+        "title":"Developper Full stack",
+        "years":"Avril 2015 - Août 2015 ",
+        "description":"Création d’un jeu web disponible sur le site de : www.jeudegestion.com. De la conception à la phase de test en passant par le développement, ce site est estimé à plus de 100.000€. Language : Java; Scala; PHP; JavaScript; Angular.js; Logicielle : IntelliJ; Bootstrap; CleverCloud; Postgre SQL; GIT."
+      },
+      {
+        "company":"360Boost",
+        "title":"Developper Full stack",
+        "years":"Février 2016 - Juillet 2016",
+        "description":"360Boost - Develop back-end for an Application mobile and web. Stage Developper. Develop test (unit, mocha.js). GitLab plateform. Google Cloud server. Develop a lot of feature with externe API like facebook connection / Google map API / mailchimp mailing / mailgun. Start up environement / collaborative work space. HTTP, sonar cube, mongo db, redis. Develop the Xamarin application"
+      },
+      {
+        "company":"Nokia",
+        "title":"Developper",
+        "years":"Octobre 2016 - Juillet 2017",
+        "description":"CRM - Implement feature on CRM and develop strategy to optimize efficiency Devops / Developper Page 1 of 3 Develop test (unit, global use cases) Application PHP no framework, develop from scratch Physical server, ssh update and continuous delivery Beanstalk pipe, HTTP, postgres SQL, optimize request AJAX Jquery Angular Js (20% front / 80% back end) CRM send 20 millions emails / 100 milions notifications By month Responsable : Pierre Duquesne"
+      },
+      {
+        "company":"Atos",
+        "title":"Developper",
+        "years":"Mai 2014 - Août 2014",
+        "description":"Packcity - Parcel delivery machine management middleware Devops / Developper Develop test (unit, contract, e2e) microservice/system versioning strategy based on git flow Push to deploy based on the gitlab, the pipeline deploy a docker image on Nexus repositor  Deploy automatically the new Docker Image on Openshift Simplification/Standardisation of openshift deployments Optimisation the ressources (CPU, RAM) used by the pod on Openshift Microservices environment, event driven Design pattern used CQRS Middleware: HTTP, rabbitmq, elasticsearch, redis Collaborateur : Antoine COUETTE / Fabrice BENOIT"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Architecture : REST, Monitoring, Micro-Services",
+        "level":"80%"
+      },
+      {
+        "name":"Back-end : NodeJS, Typescript, php, ,Javascript, Script Shell",
+        "level":"90%"
+      },
+      {
+        "name":"Front-end : React, webpack, lint, dashing, batmanjs",
+        "level":"60%"
+      },
+      {
+        "name":"System : UNIX (SOLARIS, REDHAT), Windows, Mac OS",
+        "level":"90%"
+      },
+      {
+        "name":"Conception : UML(Rational Rose, Argo), Design Patterns",
+        "level":"70%"
+      },
+      {
+        "name":"BDD : MongoDB / Cassandre / MariaDB / Elasticsearch",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Choisissez un travail que vous aimez et vous n'aurez pas à travailler un seul jour de votre vie.",
+        "user":"Confucius"
+      },
+      {
+        "text":"N’attends pas que les événements arrivent comme tu le souhaites ; décide de vouloir ce qui arrive et tu seras heureux",
+        "user":"Epictète"
+      }
+    ]
+  }
+}
